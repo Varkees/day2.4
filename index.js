@@ -1,2 +1,2 @@
-var jack = "doss";
+var jack = "Malar";
 console.log(jack);
